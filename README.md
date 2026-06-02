@@ -1,7 +1,7 @@
 # Council AI 🤖
 
 [![Test Status: Passing](https://img.shields.io/badge/Test%20Status-Passing-brightgreen)](#)
-[![Live Demo](https://img.shields.io/badge/demo-live-ff4b4b?style=for-the-badge)](https://council-ai.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=streamlit)](https://council-ai.streamlit.app)
 
 A multi-agent debate system where AI specialists collaborate to solve problems.
 
@@ -71,7 +71,7 @@ Latest local mocked judge averages:
 
 ## Links
 
-- GitHub: https://github.com/your-username/council-ai
-- LinkedIn: https://www.linkedin.com/in/your-handle/
+- GitHub: https://github.com/Mustak891/council-ai
+- LinkedIn: https://www.linkedin.com/in/mustak-ahamed/
 
 Latest reported averages are written by `evals/run_evals.py` into the CSV output and printed to the console after each run.
