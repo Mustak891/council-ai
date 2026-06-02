@@ -1,7 +1,7 @@
 # Council AI 🤖
 
 [![Test Status: Passing](https://img.shields.io/badge/Test%20Status-Passing-brightgreen)](#)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=streamlit)](https://council-ai.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://council-ai.streamlit.app)
 
 A multi-agent debate system where AI specialists collaborate to solve problems.
 
